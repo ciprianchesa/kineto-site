@@ -1,1 +1,3 @@
-A personal project where a still learn and practice.
+A personal project.
+
+- [Live Preview](https://ciprianchesa.github.io/kineto-site/)
